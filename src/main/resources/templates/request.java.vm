@@ -1,0 +1,11 @@
+package ${requestBeanPackage};
+
+@Tag(name = "请求参数")
+@Getter
+@Setter
+@Builder
+@NoArgsConstructor
+@AllArgsConstructor
+public class ${entity}Request {
+
+}
