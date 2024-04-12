@@ -1,4 +1,3 @@
-<h1>ronna-codegen</h1>
 
 ![codegen_back.png](static%2Fcodegen_rite.png)
 <p align="left">
